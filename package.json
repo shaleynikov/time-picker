@@ -16,7 +16,7 @@
     "lib",
     "assets/*.css"
   ],
-  "main": "lib/index",
+  "main": "src/index",
   "homepage": "http://github.com/react-component/time-picker",
   "author": "wuzhao.mail@gmail.com",
   "repository": {
